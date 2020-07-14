@@ -1,0 +1,14 @@
+body
+{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div
+{
+    width: 80%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid;
+    margin: 0 auto;
+}
