@@ -1,11 +1,13 @@
 body
 {
     text-align: center;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #000000;
 }
 
 div
 {
+    background-color: #f08080;
     width: 80%;
     padding: 1em;
     text-align: left;
