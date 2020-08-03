@@ -15,7 +15,15 @@ div
     margin: 0 auto;
 }
 
+<<<<<<< HEAD
 .signature_text
 {
     text-align: center;
+=======
+.signature
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+>>>>>>> test
   }
