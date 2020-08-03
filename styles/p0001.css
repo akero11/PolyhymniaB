@@ -14,3 +14,8 @@ div
     border: 1px solid;
     margin: 0 auto;
 }
+
+.signature_text
+{
+    text-align: center;
+  }
